@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 100vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
+}
+.logo
+{
+    height: 80px;
+    padding: 2px 10px;
+}
+li a
+{
+    color:#333;
+}
+.big-text
+{
+    font-size: 27px;
+    margin: 20px 0;
+    color: black ;
+
+}
+a.btn
+{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #84aaff;
+    color:beige;
+
+}
+a.btn:hover
+{
+    border: none;
+    color:black;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.5s;
+}
+.bannerinfo, .bannerimage
+{
+    margin: 38px 0;
+}
+
+
+
+
+
